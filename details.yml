@@ -1,53 +1,80 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
-address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: "+49 03643 545400"
-email: friedrich@thevoid.de
-# Insert URLs without http://
-urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
+name: Georgios Papadopoulos
+phone: 694 --
+email: geopap910@gmail.com
+citizenship: Greek
+website: geoter711.github.io/online-cv/
+github: Geoter711
 
-# Sections
+languages:
+      - idiom: Greek
+        level: Native
 
-intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
+      - idiom: English
+        level: Professional
+interests:
+      - item: Gaming (Video and Tabletop)
+        link:
 
-skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, Value theory
-- Voluntarism, Tragedy, Fact–value distinction
-- Anti-foundationalism, Philosophy of history
+      - item: Informatics
+        link:
+
+      - item: Data Analysis
+        link:
+        
+      - item: Human Behavior and Psychology
+        link:
 
 experience:
-- years: 1879--1889
-  employer: Freiberufler
-  job: Freier Philosoph
-  city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußische Artillerie
-  job: Kanonier
-  city: Naumburg
+  - role: Intern
+    time: 2021 - Present
+    company: Webits, Corfu
+    details: |
+      I work as an intern, often undertaking many projects geared around web designing, mostly via the use of CSS, HTML and PHP. I'm still learning many things on the specifics!
+  - role: Waitor
+    time: 2019 - 2020
+    company: Nereids Restaurant, Corfu
+    details: |
+      Worked during the summer months of 2019 and 2020, giving me more insight about how a workplace environment operates. Got to meet many people, polish my social skills
+      and acquired many interesting experiences. Learned a couple of bar tricks too!
 
-education:
-- year: 1867
-  subject: Philology
-  institute: Universität Leipzig
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
+projects:
+    title: Projects
+    intro: >
+      I don't particularly have any projects, considering that what I've done for the most part is through the company, but I have worked on a university project with a fellow student.
+      Technically still in progress, it is a visual novel game using Ren'Py, where I undertook some roles including character design, management of said project, and fleshing out
+      parts of the dialogue and code.
+skills:
+    title: Proficiency in Programming Languages
+
+    toolset:
+      - name: HTML5 & CSS
+        level: 85%
+        
+      - name: PHP
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 70%
+        
+      - name: C++
+        level: 75%
+      
+      - name: SQL
+        level: 70%
+      
+      - name: Java
+        level: 65% 
+        
+      - name: C
+        level: 60%
+        
+      - name: Python
+        level: 50%
 
 # Settings
-mainfont: Hoefler Text
+mainfont: Nimbus Roman
 fontsize: 10pt
 lang: en-GB
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
